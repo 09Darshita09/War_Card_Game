@@ -8,7 +8,7 @@ A simplified version of the card game 'WAR' simulated by Python OOP
 
 2. You must press Enter to play each round. You can quit the game any time by 'Q'.
 
-3. Each player plays a card. Higher card wins. Winner takes both cards. At each round the remaining cards for each player are displayed.
+3. Each player plays a card. The cards palyed by each player are displayed. Higher card wins & winner takes both cards. At each round the remaining cards for each player are displayed.
 
 4. If players tie, then press enter to start the WAR. Each player puts down 11 cards, and the 11th card competes. (_Note: Here 11 war rounds are chosen to end the game quicker_) 
 
